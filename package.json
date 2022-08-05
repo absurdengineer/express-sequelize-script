@@ -1,0 +1,22 @@
+{
+  "name": "boilerplate-script",
+  "version": "1.0.0",
+  "description": "This script creates boilerplate code for express.js app using sequelize.js",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webformulator/express-sequelize-script.git"
+  },
+  "author": "Md Dilshad Alam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webformulator/express-sequelize-script/issues"
+  },
+  "homepage": "https://github.com/webformulator/express-sequelize-script#readme",
+  "bin": {
+    "create-express-sequelize-app": "./script.js"
+  }
+}
